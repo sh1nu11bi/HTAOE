@@ -12,5 +12,6 @@ without overflowing the buffers.
 ## Tips
 Use the Ubuntu-based live cd to play with the exploits... (or create a similar env)
 * http://www.nostarch.com/hackingCD.htm 
+
 Buy the Book from Amazon :)
 * http://www.amazon.com/Hacking-The-Art-Exploitation-Edition/dp/1593271441
